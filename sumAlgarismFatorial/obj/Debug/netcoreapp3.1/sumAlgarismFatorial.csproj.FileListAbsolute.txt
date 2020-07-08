@@ -1,0 +1,13 @@
+C:\Users\Gustavo\source\repos\sumAlgarismFatorial\sumAlgarismFatorial\bin\Debug\netcoreapp3.1\sumAlgarismFatorial.exe
+C:\Users\Gustavo\source\repos\sumAlgarismFatorial\sumAlgarismFatorial\bin\Debug\netcoreapp3.1\sumAlgarismFatorial.deps.json
+C:\Users\Gustavo\source\repos\sumAlgarismFatorial\sumAlgarismFatorial\bin\Debug\netcoreapp3.1\sumAlgarismFatorial.runtimeconfig.json
+C:\Users\Gustavo\source\repos\sumAlgarismFatorial\sumAlgarismFatorial\bin\Debug\netcoreapp3.1\sumAlgarismFatorial.runtimeconfig.dev.json
+C:\Users\Gustavo\source\repos\sumAlgarismFatorial\sumAlgarismFatorial\bin\Debug\netcoreapp3.1\sumAlgarismFatorial.dll
+C:\Users\Gustavo\source\repos\sumAlgarismFatorial\sumAlgarismFatorial\bin\Debug\netcoreapp3.1\sumAlgarismFatorial.pdb
+C:\Users\Gustavo\source\repos\sumAlgarismFatorial\sumAlgarismFatorial\obj\Debug\netcoreapp3.1\sumAlgarismFatorial.AssemblyInfoInputs.cache
+C:\Users\Gustavo\source\repos\sumAlgarismFatorial\sumAlgarismFatorial\obj\Debug\netcoreapp3.1\sumAlgarismFatorial.AssemblyInfo.cs
+C:\Users\Gustavo\source\repos\sumAlgarismFatorial\sumAlgarismFatorial\obj\Debug\netcoreapp3.1\sumAlgarismFatorial.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo\source\repos\sumAlgarismFatorial\sumAlgarismFatorial\obj\Debug\netcoreapp3.1\sumAlgarismFatorial.dll
+C:\Users\Gustavo\source\repos\sumAlgarismFatorial\sumAlgarismFatorial\obj\Debug\netcoreapp3.1\sumAlgarismFatorial.pdb
+C:\Users\Gustavo\source\repos\sumAlgarismFatorial\sumAlgarismFatorial\obj\Debug\netcoreapp3.1\sumAlgarismFatorial.genruntimeconfig.cache
+C:\Users\Gustavo\source\repos\sumAlgarismFatorial\sumAlgarismFatorial\obj\Debug\netcoreapp3.1\sumAlgarismFatorial.csprojAssemblyReference.cache
